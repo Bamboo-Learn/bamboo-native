@@ -1,0 +1,12 @@
+{
+  "name": "bamboo",
+  "displayName": "bamboo",
+  "expo": {
+    "name": "bamboo",
+    "slug": "bamboo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
